@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CargoManagementSystemV1.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CargoManagementSystemV1.props" />
+</Project>
